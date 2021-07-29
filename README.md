@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Fzrabbi/Fzrabbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 'fazleybiswas143@gmail.com','+8801681231269'
 - 😄 Pronouns: NULL 
 - ⚡ Fun fact: GG
--->
+
