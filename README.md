@@ -12,3 +12,4 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ['fazleybiswas143@gmail.com','+8801681231269'];
 - 😄 Pronouns: ['Motivated','Pationated','QuickLearner'];
 
+![Fazley's GitHub stats](https://github-readme-stats.vercel.app/api?username=fzrabbi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs)
