@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fzrabbi&label=Profile%20views&color=0e75b6&style=flat" alt="fzrabbi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fzrabbi&row=1" alt="fzrabbi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fzrabbi&row=1&theme=onedark" alt="fzrabbi" /></a> </p>
 
 - 🔭 I’m currently working on **PHP,Mysql,Python3,ES6,Wp_plugin**
 
